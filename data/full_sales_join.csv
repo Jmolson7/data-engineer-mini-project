@@ -1,0 +1,6 @@
+order_item_id,order_id,product_id,quantity,product_name,category,price,customer_id,order_date,customer_name,city,line_total
+1,1001,101,2,T-Shirt,Apparel,25.0,1,2025-09-20,Andrey,Moscow,50.0
+2,1001,103,1,Protein,Supplements,55.0,1,2025-09-20,Andrey,Moscow,55.0
+3,1002,102,1,Shorts,Apparel,40.0,2,2025-09-21,Lera,Perm,40.0
+4,1003,101,1,T-Shirt,Apparel,25.0,1,2025-09-22,Andrey,Moscow,25.0
+5,1003,102,2,Shorts,Apparel,40.0,1,2025-09-22,Andrey,Moscow,80.0
