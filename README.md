@@ -1,4 +1,10 @@
 # 🗂️ Data Engineer Mini Project — SQL + Python + Pandas
+[![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)]()
+[![SQLite](https://img.shields.io/badge/SQLite-3.51-blue?logo=sqlite&logoColor=white)]()
+[![Pandas](https://img.shields.io/badge/pandas-2.2.2-yellow?logo=pandas&logoColor=white)]()
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0.32-red?logo=databricks&logoColor=white)]()
+[![ETL Pipeline](https://img.shields.io/badge/ETL%20Pipeline-Mini_Project-green)]()
+[![ASTON Internship](https://img.shields.io/badge/ASTON-Data_Engineer-orange)]()
 
 Мини-ETL: CSV → SQLite → SQL-запросы → pandas-анализ → отчёты.
 Подготовка к стажировке ASTON Data Engineer.
